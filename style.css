@@ -1,0 +1,26 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  
+}
+
+.container {
+    width: 300px;
+    height: 150px;
+    background-color: red;
+    border-radius: 10px;
+    cursor: pointer;
+    margin: 10px;
+   
+}
+
+.switch {
+    text-align: center;
+    display: none;
+    font-size: 35px;
+    color: azure;
+ 
+
+}
